@@ -12,6 +12,8 @@ function clickhandler(mob) {
                   document.querySelector("#other").innerHTML = mob_data.other
                   document.querySelector("#behivor").innerHTML = mob_data.behivor
                   document.querySelector("#mod_image").style = mob_data.image
+                  document.querySelector("#mob_name").innerHTML = mob_data.name
+                  document.querySelector("#mob_descripton").innerHTML = mob_data.descripton
                 })
           break;
         case 'Zombie':
