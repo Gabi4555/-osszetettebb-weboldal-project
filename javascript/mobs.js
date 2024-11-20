@@ -7,7 +7,7 @@ function clickhandler(mob) {
           fetch('../jsons/skeleton.json')
                 .then(response => response.json())
                 .then(mob_data => { 
-                //  document.querySelector()
+                  document.querySelector("#health").innerHTML = "FUCK"
 
                 
                 })
