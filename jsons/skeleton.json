@@ -2,6 +2,7 @@
     "name": "skeleton",
     "health": 20,
     "damage": 3,
-    "other": "Mesziről támad, elég a napon"
-        
+    "behivor": "Elenséges",
+    "other": "Mesziről támad, elég a napon",
+    "image": "background-image: url(./images/Skeleton_JE6_BE4.png);"
 }
