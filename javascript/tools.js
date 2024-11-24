@@ -58,6 +58,7 @@ function clickhandler(tool) {
                   document.querySelector("#speed").innerHTML = tool_data[material + '_speed']
                   document.querySelector("#other").innerHTML = tool_data[material + '_other']
                   document.querySelector("#tool_descripton").innerHTML = tool_data.descripton
+                  document.querySelector("#mod_image").style = tool_data[material + '_image']
                 })
           break;
         case 'Zombie':

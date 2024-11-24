@@ -18,12 +18,18 @@
     "diamond_speed": 4,
     "netherite_speed": 4.5,
     "wood_other": "Be teheted a kemencébe üzemanyagnak",
-    "stone_other": "",
+    "stone_other": "", 
     "iron_other": "",
     "gold_other": "",
     "diamond_other": "",
     "netherite_other": "",
-    "descripton": "Ha szeretsz, életed legyen önyilkoság <3"
+    "descripton": "Ha szeretsz, életed legyen önyilkoság <3",
+    "wood_image": "background-image: url(./images/Wooden_Pickaxe.webp);",
+    "stone_image": "background-image: url(./images/Stone_Pickaxe.webp);",
+    "iron_image": "background-image: url(./images/Iron_Pickaxe.webp);",
+    "gold_image": "background-image: url(./images/Gold_Pickaxe.webp);",
+    "diamond_image": "background-image: url(./images/Diamond_Pickaxe.webp);",
+    "netherite_image": "background-image: url(./images/Netherite_Pickaxe.webp);"
     
 
 
