@@ -52,7 +52,7 @@ function clickhandler(tool) {
                 .then(response => response.json())
                 .then(tool_data => { 
                   
-             
+                  document.querySelector("#name").innerHTML = tool_data.name
                   document.querySelector("#durability").innerHTML = tool_data[material + '_durability']
                   document.querySelector("#srength").innerHTML = tool_data[material + '_srength']
                   document.querySelector("#speed").innerHTML = tool_data[material + '_speed']
