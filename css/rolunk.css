@@ -40,22 +40,3 @@
 .Welcome {
     margin-top: 9vh;
 }
-
-.mob_image {
-    margin: auto;
-    height: 40vh;
-    width: 15vh;
-    background-repeat: no-repeat;
-    background-size: contain ;
-    
-}
-
-#category_name {
-    text-align: left;
-}
-
-
-
-th {
-    border: solid;
-}
