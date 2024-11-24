@@ -40,3 +40,7 @@
 .Welcome {
     margin-top: 9vh;
 }
+
+ul {
+    list-style-type: none;
+}
