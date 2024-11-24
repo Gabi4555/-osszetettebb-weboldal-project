@@ -5,26 +5,32 @@ function clickhandler2(anyag){
     switch(anyag) {
         case 'Wood':
           material = "wood"
+          clickhandler('Pickaxe')
      
           break;
         case 'Stone':
             material = "stone"
+            clickhandler('Pickaxe')
           // code block
           break;
           case 'Iron':
             material = "iron"
+            clickhandler('Pickaxe')
             // code block
             break;
             case 'Gold':
                 material = "gold"
+                clickhandler('Pickaxe')
                 // code block
                 break;
                 case 'Diamond':
                     material = "diamond"
+                    clickhandler('Pickaxe')
                     // code block
                     break;
                     case 'Netherite':
                         material = "netherite"
+                        clickhandler('Pickaxe')
                       // code block
                       break;
         default:
@@ -40,18 +46,18 @@ function clickhandler2(anyag){
 
 function clickhandler(tool) {
     switch(tool) {
-        case 'Skeleton':
+        case 'Pickaxe':
           
-          fetch('../jsons/skeleton.json')
+          fetch('../jsons/pickaxe.json')
                 .then(response => response.json())
-                .then(mob_data => { 
-                  document.querySelector("#health").innerHTML = mob_data.health
-                  document.querySelector("#damage").innerHTML = mob_data.damage
-                  document.querySelector("#other").innerHTML = mob_data.other
-                  document.querySelector("#behivor").innerHTML = mob_data.behivor
-                  document.querySelector("#mod_image").style = mob_data.image
-                  document.querySelector("#mob_name").innerHTML = mob_data.name
-                  document.querySelector("#mob_descripton").innerHTML = mob_data.descripton
+                .then(tool_data => { 
+                  
+             
+                  document.querySelector("#durability").innerHTML = tool_data[material + '_durability']
+                  document.querySelector("#srength").innerHTML = tool_data[material + '_srength']
+                  document.querySelector("#speed").innerHTML = tool_data[material + '_speed']
+                  document.querySelector("#other").innerHTML = tool_data[material + '_other']
+                  document.querySelector("#tool_descripton").innerHTML = tool_data.descripton
                 })
           break;
         case 'Zombie':
