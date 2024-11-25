@@ -42,3 +42,7 @@
 .Welcome {
     margin-top: 9vh;
 }
+
+.longer {
+    margin-top: 60vh !important;
+}
