@@ -1,0 +1,9 @@
+{
+    "name": "<h2> Pig </h2>",
+    "health": 10,
+    "damage": 0,
+    "behivor": "Közönséges",
+    "other": "Nem támad",
+    "image": "background-image: url(./images/Pig.webp);",
+    "descripton" : "A malac a legelső mob ami bekerült a játékba. Halálakor disznóhúst ejt, ami nyers, sütve négy húsegységet tölt vissza."
+}

@@ -1,0 +1,67 @@
+#NAVBAR {
+    color: white;
+    
+    
+}
+
+#Navbuttonactive { 
+    background-color: darkgreen;
+   
+    
+}
+
+#Navbutton {
+    color: white;
+
+}
+#Navbutton :hover{
+    background-color: lightgreen !important;
+    color: black !important;
+}   
+
+
+.navbar .navbar-nav .nav-link :hover {
+    background-color: lightgreen !important;
+    color: black !important;
+}
+.navbar-brand {background-image: url(../images/sample.jpg);
+                width: 6vh;
+                height: 3vh;
+                background-size: contain;
+                background-repeat: no-repeat;
+}
+
+#dirt {
+    background-image: url(../images/dirtt.jpg);
+}
+
+.main {
+    background-image: url(../images/dirtt.jpg);
+}
+
+.Welcome {
+    margin-top: 9vh;
+}
+
+.mob_image {
+    margin: auto;
+    height: 40vh;
+    width: 15vh;
+    background-repeat: no-repeat;
+    background-size: contain ;
+    
+}
+
+#category_name {
+    text-align: left;
+}
+
+
+
+th {
+    border: solid;
+}
+
+.longer {
+    margin-top: 20vh !important;
+}

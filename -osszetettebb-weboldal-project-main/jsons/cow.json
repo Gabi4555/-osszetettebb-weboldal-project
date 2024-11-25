@@ -1,0 +1,9 @@
+{
+    "name": "<h2> Cow </h2>",
+    "health": 10,
+    "damage": 0,
+    "behivor": "Közönséges",
+    "other": "Nem támad",
+    "image": "background-image: url(./images/Cow.webp);",
+    "descripton" : "A tehéntől tejet lehet kapni, ha egy üres vödörrel jobb egérrel rákattintasz."
+}

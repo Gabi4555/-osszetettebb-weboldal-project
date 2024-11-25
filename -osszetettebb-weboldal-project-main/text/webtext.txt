@@ -1,0 +1,29 @@
+Üdvözöllek a weboldalon
+
+Mobok
+
+Közönséges
+
+Malac
+
+A malac a legelső mob ami bekerült a játékba. Halálakor disznóhúst ejt, ami kettőt- nyersen, sütve négy húsegységet tölt vissza.
+
+Bárány
+
+A bárány egy passzív mob. A bárányt le lehet nyírni a gyapjú szerzéséhez, vagy csak simán megölni. Ahhoz, hogy visszaszerezze gyapját, füvet kell ennie. 
+
+Tehén
+
+A tehénnel tejet lehet kapni, ha egy üres vödörrel jobb egérrel rákattintasz.
+
+-------------
+
+Ellenséges
+
+Zombi
+
+A zombi az első ellenséges mob, ami először került be a játékba 2009-ben, amikor a túlélő mód még tesztelésben volt. Halálukkor rohadt húst dobnak, aminek jó haszna van kereskedni a papokkal. Életerejük ugyanannyi, mint a játékosnak (10 szív), támadási távolságuk közeli, sebzésük gyenge, de pár ütéssel legyőzhető.
+
+Csontváz
+
+A csontváz a második ellenséges, és a legelső távolharci mob a játékban ami egy ijjal jelen meg a világban. Jelenlétükkor néha bal kezükben fogja az íjjat a jobb kezük helyett. 

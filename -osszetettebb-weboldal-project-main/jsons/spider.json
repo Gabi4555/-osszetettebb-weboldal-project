@@ -1,0 +1,9 @@
+{
+    "name": "<h2> Spider </h2>",
+    "health": 16,
+    "damage": 3,
+    "behivor": "Ellenséges este, de reggel csak ha meg támadod",
+    "other": "Közelről támad",
+    "image": "background-image: url(./images/Spider.webp);",
+    "descripton" : "A pók egy semleges szörny, amely sötét területeken támadja meg a játékost. A pókok úgy támadnak, hogy a célpontjukra támadnak, és megharapják őket, és falakra is fel tudnak mászni."
+}
