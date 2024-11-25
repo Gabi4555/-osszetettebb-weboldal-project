@@ -46,3 +46,10 @@
 .longer {
     margin-top: 80vh !important;
 }
+
+.tippek {
+    font-size: 4vh;
+}
+button {
+    font-size: 4vh;
+}
