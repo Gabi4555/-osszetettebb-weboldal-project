@@ -6,9 +6,15 @@ Közönséges
 
 Malac
 
+A malac a legelső mob ami bekerült a játékba. Halálakor disznóhúst ejt, ami kettőt- nyersen, sütve négy húsegységet tölt vissza.
+
 Bárány
 
+A bárány egy passzív mob. A bárányt le lehet nyírni a gyapjú szerzéséhez, vagy csak simán megölni. Ahhoz, hogy visszaszerezze gyapját, füvet kell ennie. 
+
 Tehén
+
+A tehénnel tejet lehet kapni, ha egy üres vödörrel jobb egérrel rákattintasz.
 
 -------------
 
