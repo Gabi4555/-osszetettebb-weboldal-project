@@ -1,0 +1,23 @@
+Üdvözöllek a weboldalon
+
+Közönséges mobok
+
+Passzív
+
+Malac
+
+Bárány
+
+Tehén
+
+-------------
+
+Ellenséges
+
+Zombi
+
+A zombi 2009-ben került be a játékba, amikor a túlélő mód még tesztelésben volt. Halálukkor rohadt húst dobnak, aminek jó haszna van kereskedni a papokkal. Életerejük ugyanannyi, mint a játékosnak (10 szív), támadási sebzésük gyenge, de pár ütéssel legyőzhető.
+
+Csontváz
+
+A csontváz egy ijjal jelen meg a világban, néha a bal kezében fogja az íjjat a jobb kéz helyett.
