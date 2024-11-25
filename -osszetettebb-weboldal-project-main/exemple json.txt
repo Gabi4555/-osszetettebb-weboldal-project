@@ -1,9 +1,0 @@
-{
-    "name": "<h2> Skeleton </h2>",
-    "health": 20,
-    "damage": 3,
-    "behivor": "Elenséges",
-    "other": "Mesziről támad, elég a napon",
-    "image": "background-image: url(./images/Skeleton_JE6_BE4.png);",
-    "descripton" : "Skeleton bácsi a nők bálványa"
-}
