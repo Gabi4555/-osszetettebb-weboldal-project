@@ -1,0 +1,9 @@
+{
+    "name": "<h2> Spider </h2>",
+    "health": 20,
+    "damage": 64,
+    "behivor": "Ellenséges",
+    "other": "Közelről támadja a játékost és robban egyet.",
+    "image": "background-image: url(./images/creeper.webp);",
+    "descripton" : "A creeper egy gyakori ellenséges szörny, amely csendesen közeledik a játékosokhoz, majd felrobban, ami blokkokat rombolhat és hatalmas mennyiségű sebzést okozhat. A creeperek a puskapor fő forrásai, valamint a legtöbb zenei lemez beszerzésének egyetlen módja."
+}

@@ -1,0 +1,9 @@
+{
+    "name": "<h2> Zombie </h2>",
+    "health": 20,
+    "damage": 4,
+    "behivor": "Ellenséges",
+    "other": "Közelről támad, elég a napon",
+    "image": "background-image: url(./images/Zombie.webp);",
+    "descripton" : "A zombi az első ellenséges mob, ami először került be a játékba 2009-ben, amikor a túlélő mód még tesztelésben volt. Halálukkor rohadt húst dobnak, aminek jó haszna van kereskedni a papokkal."
+}
