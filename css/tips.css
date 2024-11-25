@@ -27,6 +27,8 @@
 .navbar-brand {background-image: url(../images/sample.jpg);
                 width: 6vh;
                 height: 3vh;
+                background-size: contain;
+                background-repeat: no-repeat;
 }
 
 #dirt {
@@ -39,4 +41,15 @@
 
 .Welcome {
     margin-top: 9vh;
+}
+
+.longer {
+    margin-top: 80vh !important;
+}
+
+.tippek {
+    font-size: 4vh;
+}
+button {
+    font-size: 4vh;
 }

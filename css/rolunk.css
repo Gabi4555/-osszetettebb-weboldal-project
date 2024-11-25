@@ -27,6 +27,8 @@
 .navbar-brand {background-image: url(../images/sample.jpg);
                 width: 6vh;
                 height: 3vh;
+                background-size: contain;
+                background-repeat: no-repeat;
 }
 
 #dirt {
@@ -43,4 +45,8 @@
 
 ul {
     list-style-type: none;
+}
+
+.longer {
+    margin-top: 60vh !important;
 }
