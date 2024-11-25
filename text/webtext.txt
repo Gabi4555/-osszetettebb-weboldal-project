@@ -27,3 +27,122 @@ A zombi az első ellenséges mob, ami először került be a játékba 2009-ben,
 Csontváz
 
 A csontváz a második ellenséges, és a legelső távolharci mob a játékban ami egy ijjal jelen meg a világban. Jelenlétükkor néha bal kezükben fogja az íjjat a jobb kezük helyett. 
+
+Eszközök
+
+Csákányok
+
+Facsákány
+Sebesség: 1.15mp*
+Erősség: 59
+
+Kőcsákány
+Sebesség: 0.6mp*
+Erősség: 131
+
+Vascsákány
+Sebesség: 0.4mp*
+Erősség: 250
+
+Aranycsákány
+Sebesség: 0.2mp*
+Erősség: 32
+
+Gyémántcsákány
+Sebesség: 0.3mp*
+Erősség: 1561
+
+Netheritcsákány
+Sebesség: 0.25mp*
+Erősség: 2031
+
+*A sebesség a Kő bányászati idejét fejezi ki
+
+Fejszék
+
+Fafejsze
+Sebesség: 1.5mp*
+Erősség: 59
+
+Kőfejsze
+Sebesség: 0.75mp*
+Erősség: 131
+
+Vasfejsze
+Sebesség: 0.5mp*
+Erősség: 250
+
+Aranyfejsze
+Sebesség: 0.25mp*
+Erősség: 32
+
+Gyémántfejsze
+Sebesség: 0.4mp*
+Erősség: 1561
+
+Netheritfejsze
+Sebesség: 0.35mp*
+Erősség: 2031
+
+*A sebesség a fatönkök kivágási idejét fejezi ki
+
+Ásók
+
+Faásó
+Sebesség: 0.4mp*
+Erősség: 59
+
+Kőásó
+Sebesség: 0.2mp*
+Erősség: 131
+
+Vasásó
+Sebesség: 0.15mp*
+Erősség: 250
+
+Aranyásó
+Sebesség: 0.1mp*
+Erősség: 32
+
+Gyémántásó
+Sebesség: 0.1mp*
+Erősség: 1561
+
+Netheritásó
+Sebesség: 0.1mp*
+Erősség: 2031
+
+*A sebesség a földtípusok, homoktípusok, cementpúder és lélekhomoktípusok kiásási idejét fejezi ki
+
+Kapák
+
+Fakapa
+Sebesség: 0.15mp*
+Erősség: 59
+
+Kőkapa
+Sebesség: 0.1mp*
+Erősség: 131
+
+Vaskapa
+Sebesség: 0.05mp*
+Erősség: 250
+
+Aranykapa
+Sebesség: >0.05mp* **
+Erősség: 32
+
+Gyémántkapa
+Sebesség: >0.05mp* **
+Erősség: 1561
+
+Netheritkapa
+Sebesség: >0.05mp* **
+Erősség: 2031
+
+*A sebesség a levelek vagy egyéb növényi blokk aratási idejét fejezi ki
+**0.05mp-nél kisebb idő nincs, mert a játék ciklussal (tikkel) frissíti a játékon belüli folyamatokat (1 tikk=1/20mp(0.05mp))
+
+Kardok
+
+Fakard
