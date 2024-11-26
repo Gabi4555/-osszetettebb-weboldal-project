@@ -51,3 +51,9 @@
 ul {
     list-style-type: none;
 }
+
+
+
+#modes li  {
+    margin-top: 7vh;
+}
