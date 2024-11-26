@@ -1,0 +1,37 @@
+{
+    "name": "Ásó",
+    "wood_durability": 59,
+    "stone_durability": 131,
+    "iron_durability": 250,
+    "gold_durability": 32,
+    "diamond_durability": 1561,
+    "netherite_durability" : 2031,
+    "wood_speed": "0.4mp*",
+    "stone_speed": "0.2mp*",
+    "iron_speed": "0.15mp*",
+    "gold_speed": "0.1mp*",
+    "diamond_speed": "0.1mp*",
+    "netherite_speed": "0.1mp*",
+    "speed_explonation": "*A sebesség a földtípusok, homoktípusok, cementpúder és lélekhomoktípusok kiásási idejét fejezi ki",
+    "wood_other": "A falapát a legalacsonyabb szintű lapát, amit a játékos megszerezhet. Használható a föld, homok, kavics és egyéb talajtömbök feltörésének felgyorsítására, valamint a földtömbök földúttá alakítására.",
+    "stone_other": "A kőlapát bányászati ​​szintje 1, a falapát és a vaslapát között van.", 
+    "iron_other": "Egy vaslapát bányászati ​​szintje 2, a kőlapát és a gyémántlapát között van.",
+    "gold_other": "Az aranylapát bányászati ​​szintje 0. A lapátok közül a legalacsonyabb a tartóssága; bányászati ​​sebessége azonban a legnagyobb az összes lapát közül, csakúgy, mint a varázslatossága.",
+    "diamond_other": "A gyémánt lapát olyan eszköz, amellyel gyorsan feltörhetők a talajtömbök, például homok, kavics és föld. A lapátokkal a földdel összefüggő tömböket ösvénytömbökké lehet alakítani és tábortüzeket is el lehet oltani vele.",
+    "netherite_other": "A netherit lapát bányászati ​​szintje 4, és a legnagyobb tartósság a lapátok közül.",
+    "descripton": "Az Ásó mindelféle föld feltörésére használatos.",
+    "wood_image": "background-image: url(./images/Wooden_Shovel.webp);",
+    "stone_image": "background-image: url(./images/Stone_Shovel.webp);",
+    "iron_image": "background-image: url(./images/Iron_Shovel.webp);",
+    "gold_image": "background-image: url(./images/Golden_Shovel.webp);",
+    "diamond_image": "background-image: url(./images/Diamond_Shovel.webp);",
+    "netherite_image": "background-image: url(./images/Netherite_Shovel.webp);"
+    
+
+
+
+    
+
+    
+
+}
