@@ -44,5 +44,18 @@
 }
 
 .longer {
-    margin-top: 80vh !important;
+    margin-top: 40vh !important;
 }
+
+.nagy_kep {
+    background-image: url(../images/sample.jpg);
+    
+    margin: auto;
+    margin-top: 13vh;
+    height: 40vh;
+    width: 40vh;
+    background-repeat: no-repeat;
+    background-size: contain ;
+    
+}
+
