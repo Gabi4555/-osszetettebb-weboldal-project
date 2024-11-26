@@ -146,3 +146,25 @@ Erősség: 2031
 Kardok
 
 Fakard
+Sebzés: 2 szív
+Erősség: 59
+
+Kőkard
+Sebzés: 2.5 szív
+Erősség: 131
+
+Vaskard
+Sebzés: 3 szív
+Erősség: 250
+
+Aranykard
+Sebzés: 2 szív
+Erősség: 32
+
+Gyémántkard
+Sebzés: 3.5 szív
+Erősség: 1561
+
+Netheritkard
+Sebzés: 4 szív
+Erősség: 2031
