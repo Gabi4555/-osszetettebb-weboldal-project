@@ -54,11 +54,11 @@ function clickhandler(tool) {
                   
                   document.querySelector("#name").innerHTML = tool_data.name
                   document.querySelector("#durability").innerHTML = tool_data[material + '_durability']
-                  document.querySelector("#srength").innerHTML = tool_data[material + '_srength']
                   document.querySelector("#speed").innerHTML = tool_data[material + '_speed']
                   document.querySelector("#other").innerHTML = tool_data[material + '_other']
                   document.querySelector("#tool_descripton").innerHTML = tool_data.descripton
                   document.querySelector("#mod_image").style = tool_data[material + '_image']
+                  document.querySelector("#speed_info").innerHTML = tool_data.speed_explonation
                 })
           break;
         case 'Zombie':
