@@ -1,0 +1,37 @@
+{
+    "name": "Csákány",
+    "wood_durability": 59,
+    "stone_durability": 131,
+    "iron_durability": 250,
+    "gold_durability": 32,
+    "diamond_durability": 1561,
+    "netherite_durability" : 2031,
+    "wood_speed": "1.15mp*",
+    "stone_speed": "0.6mp*",
+    "iron_speed": "0.4mp*",
+    "gold_speed": "0.2mp*",
+    "diamond_speed": "0.3mp*",
+    "netherite_speed": "0.25mp*",
+    "speed_explonation": "*A sebesség a Kő bányászati idejét fejezi ki",
+    "wood_other": "A fából készült csákányok botokból és fa deszkákból készült eszközök, és a Minecraft legalacsonyabb szintű csákányai. Különféle típusú kőket kilehet ütni vele, például zúzottkőt.",
+    "stone_other": "A kőcsákány bányászati ​szintje 1, a fa és a vascsákány között van.", 
+    "iron_other": "Egy vascsákány bányászati ​​szintje 2. A legtöbb ércet képes kibányászni a játékban, beleértve a gyémántércet is, amely anyag leadásával megalkotja a csákány negyedik szintjét, a gyémánt csákányt.",
+    "gold_other": "Az arany csákány bányászati ​​szintje 0, megegyezik a fából készült csákánnyal. A csákányok közül a legalacsonyabb a tartóssága; azonban a bányászat sebessége a legnagyobb csákányok közül, csakúgy, mint a varázslatossága.",
+    "diamond_other": "A gyémánt csákány bányászati ​​szintje 3. A csákány negyedik szintje arról ismert, hogy ez az első szint, amely képes bányászni az obszidiánt, amely kulcsfontosságú összetevő a Nether eléréséhez.",
+    "netherite_other": "A netherit csákány bányászati ​​szintje 4, és a legnagyobb tartósság a csákányok közül, és a legjobb is.",
+    "descripton": "A Csákány mindelféle kő és érc kibányászására használatos.",
+    "wood_image": "background-image: url(./images/Wooden_Pickaxe.webp);",
+    "stone_image": "background-image: url(./images/Stone_Pickaxe.webp);",
+    "iron_image": "background-image: url(./images/Iron_Pickaxe.webp);",
+    "gold_image": "background-image: url(./images/Golden_Pickaxe.webp);",
+    "diamond_image": "background-image: url(./images/Diamond_Pickaxe.webp);",
+    "netherite_image": "background-image: url(./images/Netherite_Pickaxe.webp);"
+    
+
+
+
+    
+
+    
+
+}
