@@ -1,0 +1,37 @@
+{
+    "name": "Fejsze",
+    "wood_durability": 59,
+    "stone_durability": 131,
+    "iron_durability": 250,
+    "gold_durability": 32,
+    "diamond_durability": 1561,
+    "netherite_durability" : 2031,
+    "wood_speed": "1.5mp*",
+    "stone_speed": "0.75mp*",
+    "iron_speed": "0.5mp*",
+    "gold_speed": "0.25mp*",
+    "diamond_speed": "0.4mp*",
+    "netherite_speed": "0.35mp*",
+    "speed_explonation": "*A sebesség a fatönkök kivágási idejét fejezi ki",
+    "wood_other": "A fából készült fejsze a legalacsonyabb fejsze, amelyet a játékos megszerezhet. Használható gyorsabb fák kivágására, de közelharci fegyverként is, és használhatatlaná teszi a pajzsokat.",
+    "stone_other": "A kőbalta a második szintű fejsze, amelyet a játékos megszerezhet. Használható gyorsabb fák kivágására, de közelharci fegyverként is, és használhatatlaná teszi a pajzsokat.", 
+    "iron_other": "A vasbalták a balták egy rétegét alkotják, és vasrúdokból készíthetők, zsákmányládában találhatók vagy bányászhatók, vagy fegyverkovácstól vásárolhatók.",
+    "gold_other": "Az arany balták a hasonló mint a fa, de aranyból készültek. Mint minden fejsze, ez is használható fák gyorsabb kivágására, de közelharci fegyverként is használható, és a pajzsokat is használhatatlaná teszi.",
+    "diamond_other": "A gyémánt fejsze az ötödik szintű fejsze, amelyet a játékos megszerezhet. Használható a fa alapú tömbök gyorsabb törésére.",
+    "netherite_other": "A netherita fejsze a hatodik fejsze, amelyet a játékos megszerezhet. ",
+    "descripton": "A Fejsze mindelféle fa kivágására használatos.",
+    "wood_image": "background-image: url(./images/Wooden_Axe.webp);",
+    "stone_image": "background-image: url(./images/Stone_Axe.webp);",
+    "iron_image": "background-image: url(./images/Iron_Axe.webp);",
+    "gold_image": "background-image: url(./images/Golden_Axe.webp);",
+    "diamond_image": "background-image: url(./images/Diamond_Axe.webp);",
+    "netherite_image": "background-image: url(./images/Netherite_Axe.webp);"
+    
+
+
+
+    
+
+    
+
+}
