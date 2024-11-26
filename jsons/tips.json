@@ -1,7 +1,12 @@
 {
-"tip_1": "Ne haj meg",
-"tip_2": "Ne legyél buzi",
-"tip_3": "Ne robbanj fel a creeper be",
-"tip_4": "Ne fa vagy kő csákányal üsd ki a gyémántot",
-"tip_5": "Nem fizetnek nekem ezért eleget"
+"tip_2": "A Nether egy izgalmas hely, de veszélyes is. Ha át akarsz lépni, ügyelj arra, hogy a felszerelésed erős legyen (pl. páncélok, fegyverek).",
+"tip_1": "Bányászat közben mindig vigyél magaddal fáklyákat, hogy világítást biztosíts a sötét barlangokban, és elkerüld a mobok megjelenését.",
+"tip_3": "Használj vas vagy gyémánt csákányt, hogy értékesebb nyersanyagokat (pl. gyémánt, smaragd) bányássz ki. A réz, arany és vas is jó, mert ezeket érdemes feldolgozni és használni.",
+"tip_4": "Használj asztali munkapadot (Crafting Table) és kemencét (Furnace), hogy fejlettebb eszközöket, fegyvereket és építőanyagokat készíthess.",
+"tip_5": "Ha bányászni indulsz, vigyél magaddal tartalék ételt (például kenyeret vagy sült húst), hogy ne kelljen visszatérned az alapcampba, miközben felfedezed a barlangokat.",
+ "tip_6": "Építs menedéket az éjszakára, hogy elkerüld a zombik, pókák és egyéb mobok támadását.",
+ "tip_7": "A házad köré kerítést is emelhetsz, hogy megakadályozd a mobok bejutását.",
+ "tip_8": "Ha a házban tartózkodsz, mindig legyen ajtó, hogy be tudd zárni magad és elkerüld a veszélyt.",
+ "tip_9": "A  lótenyésztés segíthet abban, hogy gyorsabban közlekedj a világban. A lovak gyorsabbak, mint a gyaloglás, és egy gyors mozgás segíthet a felfedezésben.",
+ "tip_10": "Érdemes térképeket készíteni, hogy ne tévedj el a világban. Térkép használatával könnyebben nyomon követheted az általad felfedezett területeket."
 }

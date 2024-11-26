@@ -47,3 +47,7 @@
 .longer {
     margin-top: 70vh !important;
 }
+
+ul {
+    list-style-type: none;
+}

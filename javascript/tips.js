@@ -6,12 +6,12 @@ let mas = false
 function clickhandler() {
     mas = false
 while (mas == false) {
-    random_szam = Math.floor(Math.random() * 5) + 1;
+    random_szam = Math.floor(Math.random() * 10) + 1;
     if (random_szam != elobbi_szam) {
          mas = true
          elobbi_szam = random_szam
 
-
+        
 
          
     }
